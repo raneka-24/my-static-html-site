@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/730a0d5e-fbda-490b-a3f1-cdd9f1a3db8a/resourceGroups/raneapp/providers/Microsoft.Web/sites/appyu",
+    "appService.deploySubpath": "."
+}
